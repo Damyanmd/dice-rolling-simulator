@@ -15,6 +15,7 @@ def rolling_dice():
     shown_image.image = image1
 
 #choosing and importing images
+#IMPORTANT IMAGES SHOULD BE IN THE THE SAME FOLDER WITH THE CODE FOR IT TO WORK
 dice = ['dice1.png', 'dice2.png', 'dice3.png', 'dice4.png', 'dice5.png', 'dice6.png']
 random_image = ImageTk.PhotoImage(Image.open(random.choice(dice)))
 
