@@ -9,7 +9,7 @@ The dice rolling simulator has a straightforward purpose: to row the dice. It is
 
 * *Python 3.x*
 * *Tested on Windows*
-* *Check ![requirements](https://github.com/Damyanmd/dice-rolling-simulator/blob/main/requirements.txt?raw=true)
+* Check ![requirements](https://github.com/Damyanmd/dice-rolling-simulator/blob/main/requirements.txt?raw=true)
 
 ## Usage
 
