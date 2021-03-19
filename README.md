@@ -1,13 +1,15 @@
 # dice-rolling-simulator
 ## Description
 
-The dice rolling simulator has a straightforward purpose: to row the dice. It is writen on python with tkinter. 
+The dice rolling simulator has a straightforward purpose: to row the dice. It is written on python with tkinter. 
+
+![finished_version](https://user-images.githubusercontent.com/77811406/111755379-b4d67d80-88a1-11eb-94d2-cf3d07a20c02.jpg)
 
 ```bash
 pip install foobar
 ```
 
-## Usage
+## Installation
 
 ```python
 import foobar
